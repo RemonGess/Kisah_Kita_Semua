@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "kenangankisahkita-88482",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
